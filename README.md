@@ -1,2 +1,2 @@
 # batch_image-compressor
-A very basic image compression tool designed to help users easily compress images in batch.
+A simple image compression tool designed to help users easily compress images in batch.
