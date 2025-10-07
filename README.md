@@ -7,7 +7,7 @@ A simple image compression tool designed to help users easily compress images in
 * Configurable compression levels
 * Cross-platform compatibility
 * Command-line interface
-
+ 
 # Prerequisites
 1. Python 3.8+
    * Core Libraries: **Pillow (PIL)**
