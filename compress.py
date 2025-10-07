@@ -17,3 +17,4 @@ def compress_image(file_path, output_directory, compression_quality=75):
         print(f"Error compressing {file_path}: {e}")
 
 //
+//
