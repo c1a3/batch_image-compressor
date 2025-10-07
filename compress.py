@@ -15,3 +15,5 @@ def compress_image(file_path, output_directory, compression_quality=75):
             print(f"Compressed {file_path} to {output_path}. Compression: {compression_percentage:.2f}%")
     except Exception as e:
         print(f"Error compressing {file_path}: {e}")
+
+//
