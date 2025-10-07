@@ -5,7 +5,7 @@ A simple image compression tool designed to help users easily compress images in
 * Bulk image compression
 * Support for multiple image formats (JPEG, PNG, WebP)
 * Configurable compression levels
-* Cross-platform compatibility
+* Cross-platform compatibility 
 * Command-line interface
  
 # Prerequisites
