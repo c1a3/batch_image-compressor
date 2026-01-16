@@ -1,6 +1,6 @@
 import pathlib
 from compress import compress_image
-def main():
+def main(): 
 
     input_directory = pathlib.Path("images") 
     output_directory = pathlib.Path("compressed")
