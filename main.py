@@ -4,7 +4,7 @@ def main():
 
     input_directory = pathlib.Path("images") 
     output_directory = pathlib.Path("compressed")
-
+ 
     # desired_compression_quality
     while True:
         try:
